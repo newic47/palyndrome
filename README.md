@@ -1,4 +1,4 @@
 # palyndrome
 
-# dependences 
-# Python2 Core
+Dependences :
+- Python2 Core
