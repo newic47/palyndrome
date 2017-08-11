@@ -3,7 +3,7 @@
 Dependences :
 - Python2 Core
 
-
+```python
 import getpass
 
 def crypt(e):
@@ -12,3 +12,4 @@ def crypt(e):
     return i(e)
 
 motdepasse = lambda f: crypt(getpass))
+```
